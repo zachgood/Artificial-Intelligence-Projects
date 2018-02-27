@@ -1,0 +1,9 @@
+The final project for CS 440 was to use what we learned and apply it to an independent project.
+
+I created an AI to play connect 4 against.  I used various heuristic functions and search functions to make multiple "players".  I evaluated the strength of each player by creating a tournament in which each player played against each other as well as a random move AI.
+
+I also validated each player by manually making moves and trying to win.  The best AI I made was able to win every time I played.
+
+If this all works as it should, anyone looking at this repo should be able to play against my AI too using the jupyter notebook with my final write up.  
+
+I received a 100% on this assignment and earned an A+ in the course.
