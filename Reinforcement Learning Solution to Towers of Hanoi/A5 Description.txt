@@ -1,0 +1,5 @@
+For this assignment, I used reinforcement learning to solve the Towers of Hanoi puzzle.
+
+To accomplish this, I modified code discussed in lecture for learning to play Tic-Tac-Toe. I modified the code so that it learned to solve the three-disk, three-peg Towers of Hanoi Puzzle. 
+
+For extra credit, I modified the Towers of Hanoi puzzle code to make a puzzle with more disks and more pegs.  I solved these puzzles using the code applied to three-disk, three-peg Towers of Hanoi Puzzle. 
