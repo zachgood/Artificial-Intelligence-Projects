@@ -1,1 +1,5 @@
-This was the first project from CS 440.  It involved Uniformed Search.
+This was the first project from CS 440.
+Breadth-first and depth-first are two algorithms for performing uninformed search---a search that does not use knowledge about the goal of the search. 
+I implemented both search algorithms in python and tested them on a simple graph.
+The simple graph was a tree that was connected by a dictionary where the keys were parent nodes that mapped to values that were their child nodes.
+For extra credit, I applied an algorithm to solve another puzzle.  
