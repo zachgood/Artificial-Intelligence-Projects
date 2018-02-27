@@ -1,1 +1,3 @@
 For this assignment, I investigated the advantages of alpha-beta pruning applied to Tic-Tac-Toe.
+For extra credit, I created a game of connect 4 and applied negamax and negamaxAB as an AI to play C4 with user input as an opponent.
+This project will lead into my final project for the course.
