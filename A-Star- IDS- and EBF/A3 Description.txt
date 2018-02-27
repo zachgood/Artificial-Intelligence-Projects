@@ -1,0 +1,3 @@
+For this assignment, I implemented the Recursive Best-First Search implementation of the A* algorithm given in class. This function was named aStarSearch. 
+This notebook also includes my iterativeDeepeningSearch functions from a previous project. 
+I also defined a new function named ebf that returns an estimate of the effective branching factor for a search algorithm applied to a search problem.
