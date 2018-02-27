@@ -1,0 +1,4 @@
+I this project I wrote and applied code that trains neural networks of various numbers of hidden layers and units in each hidden layer and returns results as specified by project description. 
+
+I did this once for a regression problem and once for a classification problem.
+
