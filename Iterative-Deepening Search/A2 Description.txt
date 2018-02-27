@@ -1,0 +1,3 @@
+Iterative-Deepening Search project.  
+Implement the iterative-deepening search algorithm as discussed in our Week 2 lecture notes and as shown in figures 3.17 and 3.18 in our text book. 
+Apply it to the 8-puzzle and a second puzzle of my choice.
