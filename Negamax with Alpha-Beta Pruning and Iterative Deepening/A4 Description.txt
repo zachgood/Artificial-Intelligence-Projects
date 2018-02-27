@@ -1,0 +1,1 @@
+For this assignment, I investigated the advantages of alpha-beta pruning applied to Tic-Tac-Toe.
